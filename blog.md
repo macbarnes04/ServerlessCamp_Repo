@@ -1,1 +1,2 @@
 ## About Me
+## Hey! My name is Mac, I am a senior at the North Carolina School of Science and Mathematics and am 18 years old! I really enjoy working on projects that interlock STEM feilds with a humantarian or social justice purpose, or with the visual arts. I am from Charlotte, NC and will be attending Washington University in St. Louis next year, hopefully majoring in computer science and visual art, perhaps with a math minor! 
