@@ -1,11 +1,11 @@
 // start coding your function here!
+date = new Date().getHours
 function running_late(date) {
-    if (hours >= 22 ){
-        response = "It is late!"
+    if (date >= 22 ){
+        return "It is late!"
     } else {
-        response = "It is still early!"
-    }
-    return response
+        return "It is still early!"
+    } 
 } 
-
+running_late(date);
 exports.running_late = running_late;
