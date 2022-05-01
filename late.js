@@ -6,6 +6,6 @@ function running_late(date) {
     else {
         return "It is late!";
     } 
-} 
-module.exports = running_late;
+}
+exports.running_late = running_late;
 
